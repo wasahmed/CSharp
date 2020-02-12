@@ -1,0 +1,11 @@
+C:\Users\bbdnet2207\Desktop\c#\input\obj\Debug\netcoreapp3.1\input.csprojAssemblyReference.cache
+C:\Users\bbdnet2207\Desktop\c#\input\obj\Debug\netcoreapp3.1\input.AssemblyInfoInputs.cache
+C:\Users\bbdnet2207\Desktop\c#\input\obj\Debug\netcoreapp3.1\input.AssemblyInfo.cs
+C:\Users\bbdnet2207\Desktop\c#\input\bin\Debug\netcoreapp3.1\input.exe
+C:\Users\bbdnet2207\Desktop\c#\input\bin\Debug\netcoreapp3.1\input.deps.json
+C:\Users\bbdnet2207\Desktop\c#\input\bin\Debug\netcoreapp3.1\input.runtimeconfig.json
+C:\Users\bbdnet2207\Desktop\c#\input\bin\Debug\netcoreapp3.1\input.runtimeconfig.dev.json
+C:\Users\bbdnet2207\Desktop\c#\input\bin\Debug\netcoreapp3.1\input.dll
+C:\Users\bbdnet2207\Desktop\c#\input\bin\Debug\netcoreapp3.1\input.pdb
+C:\Users\bbdnet2207\Desktop\c#\input\obj\Debug\netcoreapp3.1\input.dll
+C:\Users\bbdnet2207\Desktop\c#\input\obj\Debug\netcoreapp3.1\input.pdb
