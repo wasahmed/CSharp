@@ -1,0 +1,11 @@
+C:\Users\bbdnet2207\Desktop\c#\numbers\bin\Debug\netcoreapp3.1\numbers.exe
+C:\Users\bbdnet2207\Desktop\c#\numbers\bin\Debug\netcoreapp3.1\numbers.deps.json
+C:\Users\bbdnet2207\Desktop\c#\numbers\bin\Debug\netcoreapp3.1\numbers.runtimeconfig.json
+C:\Users\bbdnet2207\Desktop\c#\numbers\bin\Debug\netcoreapp3.1\numbers.runtimeconfig.dev.json
+C:\Users\bbdnet2207\Desktop\c#\numbers\bin\Debug\netcoreapp3.1\numbers.dll
+C:\Users\bbdnet2207\Desktop\c#\numbers\bin\Debug\netcoreapp3.1\numbers.pdb
+C:\Users\bbdnet2207\Desktop\c#\numbers\obj\Debug\netcoreapp3.1\numbers.csprojAssemblyReference.cache
+C:\Users\bbdnet2207\Desktop\c#\numbers\obj\Debug\netcoreapp3.1\numbers.AssemblyInfoInputs.cache
+C:\Users\bbdnet2207\Desktop\c#\numbers\obj\Debug\netcoreapp3.1\numbers.AssemblyInfo.cs
+C:\Users\bbdnet2207\Desktop\c#\numbers\obj\Debug\netcoreapp3.1\numbers.dll
+C:\Users\bbdnet2207\Desktop\c#\numbers\obj\Debug\netcoreapp3.1\numbers.pdb
