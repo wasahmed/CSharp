@@ -1,0 +1,11 @@
+C:\Users\bbdnet2207\Desktop\c#\static_class\obj\Debug\netcoreapp3.1\static_class.csprojAssemblyReference.cache
+C:\Users\bbdnet2207\Desktop\c#\static_class\obj\Debug\netcoreapp3.1\static_class.AssemblyInfoInputs.cache
+C:\Users\bbdnet2207\Desktop\c#\static_class\obj\Debug\netcoreapp3.1\static_class.AssemblyInfo.cs
+C:\Users\bbdnet2207\Desktop\c#\static_class\bin\Debug\netcoreapp3.1\static_class.exe
+C:\Users\bbdnet2207\Desktop\c#\static_class\bin\Debug\netcoreapp3.1\static_class.deps.json
+C:\Users\bbdnet2207\Desktop\c#\static_class\bin\Debug\netcoreapp3.1\static_class.runtimeconfig.json
+C:\Users\bbdnet2207\Desktop\c#\static_class\bin\Debug\netcoreapp3.1\static_class.runtimeconfig.dev.json
+C:\Users\bbdnet2207\Desktop\c#\static_class\bin\Debug\netcoreapp3.1\static_class.dll
+C:\Users\bbdnet2207\Desktop\c#\static_class\bin\Debug\netcoreapp3.1\static_class.pdb
+C:\Users\bbdnet2207\Desktop\c#\static_class\obj\Debug\netcoreapp3.1\static_class.dll
+C:\Users\bbdnet2207\Desktop\c#\static_class\obj\Debug\netcoreapp3.1\static_class.pdb
